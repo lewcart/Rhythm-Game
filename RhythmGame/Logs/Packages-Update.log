@@ -43,3 +43,12 @@ The following packages were added:
   com.unity.textmeshpro@2.0.1
   com.unity.timeline@1.2.12
   com.unity.ugui@1.0.0
+
+=== Thu Mar 19 09:15:18 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.device-simulator@2.0.0-preview
+  com.unity.render-pipelines.universal@7.1.5
