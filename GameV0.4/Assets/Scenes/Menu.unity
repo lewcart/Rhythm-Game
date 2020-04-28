@@ -707,7 +707,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ClientId: a881425dd78e4c30bb6f4b92132dc734
   ConnectionTimeout: 60
-  AutoConnect: 0
+  AutoConnect: 1
   UpdateFrequencyMs: 1000
   LogLevel: 1
   ReuseAuthTokens: 1
@@ -721,8 +721,8 @@ MonoBehaviour:
   Platform: 0
   Scheme: rhythmgamescheme
   RedirectUrlSuffix: oauth/callback/spotify/
-  AutoReauthorize: 0
-  DebugURLAuthorization: http://localhost:4002/#access_token=BQDVoYHTGR-IFJeoiVHuWTcusdtYnbxPp4OwVOi3f5yxULTqCY9z6vr0ztpxfO4tWg1vAPrsZ1Z2pdFbXnpWWKvxa0Ap5R4kQfnfxRbR2089wFt65trRAOcGQIV9n2XSJOBtKrR8sOHtGxF2cqEpKlwBIT433pOMjrFMWHhmxu0xKG3SG5aVkSZtx7ysVJWpaj-rD-sSyPrD-mKsV9Y-PGBycIEoe7GLzS4iDITvwwzL7wtgjI8NvpzyfKB2CUfFdVr_70GMkq23S5UfqebeftTQJrfM1Zgobjor&token_type=Bearer&expires_in=3600
+  AutoReauthorize: 1
+  DebugURLAuthorization: http://localhost:4002/#access_token=BQAYK_cEp7sa743ypyfRRWgZ0RBKHqxLYJfZoFioI6rsvivscypjIPVgb_rXvNyxTblZHhMJPhQAVeQ23gkkn_4uQ26T_YsSFklFWgiv6xQOZxvKMlm_mLqqg8omz1g76c204ujVrWxP63Dk4deWqL24Z0NDypd7SuBSSlths8iEuDbAgQomPH56gVq8T6V8a-UK4KOQIYS0hphvSo0EX3b4fEcCEiaGT67l3yrnp3_gG-l89PfI4Eif1HRJ9r56jOXYxl8qptK0JkDGMz0NBoAbYzbApIkR6qya&token_type=Bearer&expires_in=3600
 --- !u!4 &396385981
 Transform:
   m_ObjectHideFlags: 0
