@@ -1,0 +1,1105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9aee7e548d5de44a366308702e981a, type: 3}
+  m_Name: Summer Nights. - Halberd
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: de26feb94ee8a20449130e5c7a7ad65c, type: 3}
+  bpm: 128
+  notes:
+  - noteName: 4
+    noteOctave: 2
+    time: 0.083008
+    noteLength: 0.151367
+  - noteName: 4
+    noteOctave: 2
+    time: 0.249023
+    noteLength: 0.073243
+  - noteName: 6
+    noteOctave: 2
+    time: 0.336914
+    noteLength: 0.195313
+  - noteName: 2
+    noteOctave: 2
+    time: 0.541992
+    noteLength: 0.297852
+  - noteName: 3
+    noteOctave: 2
+    time: 0.859375
+    noteLength: 0.112305
+  - noteName: 4
+    noteOctave: 2
+    time: 0.981445
+    noteLength: 0.078125
+  - noteName: 6
+    noteOctave: 2
+    time: 1.074219
+    noteLength: 0.180664
+  - noteName: 2
+    noteOctave: 2
+    time: 1.269531
+    noteLength: 0.322266
+  - noteName: 4
+    noteOctave: 2
+    time: 1.606445
+    noteLength: 0.097657
+  - noteName: 4
+    noteOctave: 2
+    time: 1.713867
+    noteLength: 0.078125
+  - noteName: 5
+    noteOctave: 2
+    time: 1.806641
+    noteLength: 0.185547
+  - noteName: 2
+    noteOctave: 2
+    time: 2.006836
+    noteLength: 0.3125
+  - noteName: 9
+    noteOctave: 3
+    time: 2.329102
+    noteLength: 0.273437
+  - noteName: 4
+    noteOctave: 1
+    time: 2.978516
+    noteLength: 0.190429
+  - noteName: 4
+    noteOctave: 2
+    time: 3.183594
+    noteLength: 0.048828
+  - noteName: 0
+    noteOctave: 2
+    time: 3.24707
+    noteLength: 0.229493
+  - noteName: 2
+    noteOctave: 2
+    time: 3.486328
+    noteLength: 0.302735
+  - noteName: 4
+    noteOctave: 4
+    time: 3.828125
+    noteLength: 0.288086
+  - noteName: 6
+    noteOctave: 4
+    time: 4.121094
+    noteLength: 0.40039
+  - noteName: 9
+    noteOctave: 1
+    time: 4.599609
+    noteLength: 0.195313
+  - noteName: 9
+    noteOctave: 1
+    time: 4.814453
+    noteLength: 0.410156
+  - noteName: 9
+    noteOctave: 4
+    time: 5.239258
+    noteLength: 0.19043
+  - noteName: 9
+    noteOctave: 3
+    time: 5.43457
+    noteLength: 0.053711
+  - noteName: 9
+    noteOctave: 4
+    time: 5.488281
+    noteLength: 0.097657
+  - noteName: 6
+    noteOctave: 4
+    time: 5.59082
+    noteLength: 0.361328
+  - noteName: 1
+    noteOctave: 3
+    time: 5.952148
+    noteLength: 0.166016
+  - noteName: 1
+    noteOctave: 2
+    time: 6.132813
+    noteLength: 0.566406
+  - noteName: 1
+    noteOctave: 2
+    time: 6.743164
+    noteLength: 0.429688
+  - noteName: 2
+    noteOctave: 2
+    time: 7.1875
+    noteLength: 0.546875
+  - noteName: 5
+    noteOctave: 2
+    time: 7.753906
+    noteLength: 0.332032
+  - noteName: 11
+    noteOctave: 1
+    time: 8.115234
+    noteLength: 0.131836
+  - noteName: 11
+    noteOctave: 1
+    time: 8.266602
+    noteLength: 0.180664
+  - noteName: 9
+    noteOctave: 3
+    time: 8.461914
+    noteLength: 0.102539
+  - noteName: 9
+    noteOctave: 3
+    time: 8.569336
+    noteLength: 0.053711
+  - noteName: 11
+    noteOctave: 3
+    time: 8.637695
+    noteLength: 0.22461
+  - noteName: 9
+    noteOctave: 1
+    time: 8.959961
+    noteLength: 0.634766
+  - noteName: 9
+    noteOctave: 1
+    time: 9.609375
+    noteLength: 0.361328
+  - noteName: 4
+    noteOctave: 4
+    time: 9.970703
+    noteLength: 0.175781
+  - noteName: 7
+    noteOctave: 4
+    time: 10.146484
+    noteLength: 0.15625
+  - noteName: 2
+    noteOctave: 1
+    time: 10.307617
+    noteLength: 0.131836
+  - noteName: 2
+    noteOctave: 2
+    time: 10.454102
+    noteLength: 0.571289
+  - noteName: 11
+    noteOctave: 1
+    time: 11.049805
+    noteLength: 0.390625
+  - noteName: 6
+    noteOctave: 2
+    time: 11.445313
+    noteLength: 0.371093
+  - noteName: 7
+    noteOctave: 2
+    time: 11.84082
+    noteLength: 0.170899
+  - noteName: 7
+    noteOctave: 1
+    time: 12.03125
+    noteLength: 0.478516
+  - noteName: 5
+    noteOctave: 1
+    time: 12.700195
+    noteLength: 0.541993
+  - noteName: 6
+    noteOctave: 1
+    time: 13.271484
+    noteLength: 0.166016
+  - noteName: 7
+    noteOctave: 1
+    time: 13.457031
+    noteLength: 0.385742
+  - noteName: 6
+    noteOctave: 3
+    time: 14.018555
+    noteLength: 0.24414
+  - noteName: 7
+    noteOctave: 3
+    time: 14.267578
+    noteLength: 0.107422
+  - noteName: 11
+    noteOctave: 3
+    time: 14.492188
+    noteLength: 0.141601
+  - noteName: 10
+    noteOctave: 1
+    time: 14.658203
+    noteLength: 0.341797
+  - noteName: 3
+    noteOctave: 2
+    time: 15.136719
+    noteLength: 0.263672
+  - noteName: 4
+    noteOctave: 4
+    time: 15.43457
+    noteLength: 0.288086
+  - noteName: 6
+    noteOctave: 4
+    time: 15.722656
+    noteLength: 0.371094
+  - noteName: 9
+    noteOctave: 1
+    time: 16.206055
+    noteLength: 0.195312
+  - noteName: 9
+    noteOctave: 1
+    time: 16.420898
+    noteLength: 0.424805
+  - noteName: 9
+    noteOctave: 4
+    time: 16.865234
+    noteLength: 0.166016
+  - noteName: 9
+    noteOctave: 3
+    time: 17.036133
+    noteLength: 0.053711
+  - noteName: 9
+    noteOctave: 4
+    time: 17.094728
+    noteLength: 0.097656
+  - noteName: 6
+    noteOctave: 4
+    time: 17.197266
+    noteLength: 0.361328
+  - noteName: 1
+    noteOctave: 3
+    time: 17.558594
+    noteLength: 0.15625
+  - noteName: 1
+    noteOctave: 2
+    time: 17.729492
+    noteLength: 0.551758
+  - noteName: 1
+    noteOctave: 2
+    time: 18.398438
+    noteLength: 0.415039
+  - noteName: 3
+    noteOctave: 1
+    time: 18.833008
+    noteLength: 0.34668
+  - noteName: 2
+    noteOctave: 2
+    time: 19.194336
+    noteLength: 0.336914
+  - noteName: 9
+    noteOctave: 2
+    time: 19.536133
+    noteLength: 0.195312
+  - noteName: 11
+    noteOctave: 1
+    time: 19.750977
+    noteLength: 0.341796
+  - noteName: 9
+    noteOctave: 3
+    time: 20.097656
+    noteLength: 0.092774
+  - noteName: 10
+    noteOctave: 1
+    time: 20.20996
+    noteLength: 0.087891
+  - noteName: 11
+    noteOctave: 3
+    time: 20.302734
+    noteLength: 0.170899
+  - noteName: 9
+    noteOctave: 1
+    time: 20.605469
+    noteLength: 0.585937
+  - noteName: 9
+    noteOctave: 1
+    time: 21.206057
+    noteLength: 0.361328
+  - noteName: 4
+    noteOctave: 4
+    time: 21.567385
+    noteLength: 0.175781
+  - noteName: 7
+    noteOctave: 4
+    time: 21.748049
+    noteLength: 0.195312
+  - noteName: 2
+    noteOctave: 1
+    time: 21.967772
+    noteLength: 0.073243
+  - noteName: 2
+    noteOctave: 2
+    time: 22.055664
+    noteLength: 0.180664
+  - noteName: 11
+    noteOctave: 1
+    time: 22.250977
+    noteLength: 0.668945
+  - noteName: 6
+    noteOctave: 3
+    time: 22.924805
+    noteLength: 0.136718
+  - noteName: 6
+    noteOctave: 2
+    time: 23.071287
+    noteLength: 0.375977
+  - noteName: 7
+    noteOctave: 2
+    time: 23.457031
+    noteLength: 0.151367
+  - noteName: 7
+    noteOctave: 1
+    time: 23.62793
+    noteLength: 0.478515
+  - noteName: 4
+    noteOctave: 1
+    time: 24.560549
+    noteLength: 0.297851
+  - noteName: 7
+    noteOctave: 1
+    time: 24.87793
+    noteLength: 0.097656
+  - noteName: 7
+    noteOctave: 1
+    time: 24.995115
+    noteLength: 0.166016
+  - noteName: 7
+    noteOctave: 1
+    time: 25.180664
+    noteLength: 0.375977
+  - noteName: 6
+    noteOctave: 3
+    time: 25.625
+    noteLength: 0.234375
+  - noteName: 7
+    noteOctave: 3
+    time: 25.864258
+    noteLength: 0.12207
+  - noteName: 10
+    noteOctave: 2
+    time: 25.996094
+    noteLength: 0.097656
+  - noteName: 11
+    noteOctave: 3
+    time: 26.098633
+    noteLength: 0.151367
+  - noteName: 4
+    noteOctave: 1
+    time: 26.274414
+    noteLength: 0.136719
+  - noteName: 3
+    noteOctave: 2
+    time: 26.42578
+    noteLength: 0.048828
+  - noteName: 4
+    noteOctave: 1
+    time: 26.499023
+    noteLength: 0.126954
+  - noteName: 2
+    noteOctave: 2
+    time: 26.635742
+    noteLength: 0.366211
+  - noteName: 4
+    noteOctave: 4
+    time: 27.03125
+    noteLength: 0.292969
+  - noteName: 6
+    noteOctave: 4
+    time: 27.32422
+    noteLength: 0.410156
+  - noteName: 9
+    noteOctave: 1
+    time: 27.8125
+    noteLength: 0.200195
+  - noteName: 9
+    noteOctave: 1
+    time: 28.032228
+    noteLength: 0.424804
+  - noteName: 9
+    noteOctave: 4
+    time: 28.466797
+    noteLength: 0.180664
+  - noteName: 9
+    noteOctave: 3
+    time: 28.652344
+    noteLength: 0.053711
+  - noteName: 9
+    noteOctave: 4
+    time: 28.706057
+    noteLength: 0.092773
+  - noteName: 6
+    noteOctave: 4
+    time: 28.803713
+    noteLength: 0.395508
+  - noteName: 1
+    noteOctave: 3
+    time: 29.19922
+    noteLength: 0.136719
+  - noteName: 1
+    noteOctave: 2
+    time: 29.350586
+    noteLength: 0.551758
+  - noteName: 6
+    noteOctave: 1
+    time: 30.048828
+    noteLength: 0.74707
+  - noteName: 2
+    noteOctave: 2
+    time: 30.810549
+    noteLength: 0.317383
+  - noteName: 9
+    noteOctave: 2
+    time: 31.142578
+    noteLength: 0.161133
+  - noteName: 11
+    noteOctave: 1
+    time: 31.333008
+    noteLength: 0.126953
+  - noteName: 11
+    noteOctave: 1
+    time: 31.474607
+    noteLength: 0.214844
+  - noteName: 9
+    noteOctave: 3
+    time: 31.694336
+    noteLength: 0.12207
+  - noteName: 10
+    noteOctave: 1
+    time: 31.835938
+    noteLength: 0.05371
+  - noteName: 11
+    noteOctave: 3
+    time: 31.894531
+    noteLength: 0.195313
+  - noteName: 9
+    noteOctave: 1
+    time: 32.163086
+    noteLength: 0.629883
+  - noteName: 9
+    noteOctave: 1
+    time: 32.8125
+    noteLength: 0.375977
+  - noteName: 4
+    noteOctave: 4
+    time: 33.19336
+    noteLength: 0.141602
+  - noteName: 7
+    noteOctave: 4
+    time: 33.339844
+    noteLength: 0.268554
+  - noteName: 2
+    noteOctave: 2
+    time: 33.64746
+    noteLength: 0.600586
+  - noteName: 6
+    noteOctave: 2
+    time: 34.677734
+    noteLength: 0.351563
+  - noteName: 7
+    noteOctave: 2
+    time: 35.04883
+    noteLength: 0.180664
+  - noteName: 7
+    noteOctave: 1
+    time: 35.249023
+    noteLength: 0.478516
+  - noteName: 5
+    noteOctave: 1
+    time: 35.89844
+    noteLength: 0.722656
+  - noteName: 7
+    noteOctave: 1
+    time: 36.635742
+    noteLength: 0.307617
+  - noteName: 6
+    noteOctave: 3
+    time: 37.231445
+    noteLength: 0.244141
+  - noteName: 7
+    noteOctave: 3
+    time: 37.48047
+    noteLength: 0.102539
+  - noteName: 10
+    noteOctave: 3
+    time: 37.58789
+    noteLength: 0.12207
+  - noteName: 11
+    noteOctave: 3
+    time: 37.714844
+    noteLength: 0.166015
+  - noteName: 4
+    noteOctave: 4
+    time: 38.637695
+    noteLength: 0.297852
+  - noteName: 6
+    noteOctave: 4
+    time: 38.940434
+    noteLength: 0.361328
+  - noteName: 9
+    noteOctave: 1
+    time: 39.418945
+    noteLength: 0.195313
+  - noteName: 9
+    noteOctave: 1
+    time: 39.63379
+    noteLength: 0.424805
+  - noteName: 9
+    noteOctave: 4
+    time: 40.078125
+    noteLength: 0.126953
+  - noteName: 9
+    noteOctave: 4
+    time: 40.20996
+    noteLength: 0.048828
+  - noteName: 9
+    noteOctave: 3
+    time: 40.26367
+    noteLength: 0.043945
+  - noteName: 9
+    noteOctave: 4
+    time: 40.3125
+    noteLength: 0.092773
+  - noteName: 6
+    noteOctave: 4
+    time: 40.410156
+    noteLength: 0.395508
+  - noteName: 1
+    noteOctave: 3
+    time: 40.810547
+    noteLength: 0.117187
+  - noteName: 1
+    noteOctave: 2
+    time: 40.942383
+    noteLength: 0.058594
+  - noteName: 1
+    noteOctave: 3
+    time: 41.010742
+    noteLength: 0.122071
+  - noteName: 1
+    noteOctave: 2
+    time: 41.14746
+    noteLength: 0.361328
+  - noteName: 0
+    noteOctave: 2
+    time: 41.58203
+    noteLength: 0.581055
+  - noteName: 2
+    noteOctave: 1
+    time: 42.177734
+    noteLength: 0.219727
+  - noteName: 2
+    noteOctave: 2
+    time: 42.407227
+    noteLength: 0.146484
+  - noteName: 3
+    noteOctave: 2
+    time: 42.57324
+    noteLength: 0.341797
+  - noteName: 11
+    noteOctave: 1
+    time: 42.94922
+    noteLength: 0.356445
+  - noteName: 9
+    noteOctave: 3
+    time: 43.310547
+    noteLength: 0.083008
+  - noteName: 11
+    noteOctave: 3
+    time: 43.41309
+    noteLength: 0.268555
+  - noteName: 9
+    noteOctave: 1
+    time: 43.813477
+    noteLength: 0.600586
+  - noteName: 9
+    noteOctave: 1
+    time: 44.42871
+    noteLength: 0.361328
+  - noteName: 4
+    noteOctave: 4
+    time: 44.79004
+    noteLength: 0.19043
+  - noteName: 7
+    noteOctave: 4
+    time: 44.98047
+    noteLength: 0.146484
+  - noteName: 2
+    noteOctave: 1
+    time: 45.126953
+    noteLength: 0.131836
+  - noteName: 2
+    noteOctave: 2
+    time: 45.27344
+    noteLength: 0.571289
+  - noteName: 11
+    noteOctave: 1
+    time: 45.859375
+    noteLength: 0.263672
+  - noteName: 6
+    noteOctave: 3
+    time: 46.132812
+    noteLength: 0.136718
+  - noteName: 6
+    noteOctave: 2
+    time: 46.279297
+    noteLength: 0.385742
+  - noteName: 7
+    noteOctave: 2
+    time: 46.674805
+    noteLength: 0.161133
+  - noteName: 7
+    noteOctave: 1
+    time: 46.85547
+    noteLength: 0.478515
+  - noteName: 7
+    noteOctave: 1
+    time: 47.695312
+    noteLength: 0.224609
+  - noteName: 4
+    noteOctave: 1
+    time: 47.963867
+    noteLength: 0.136719
+  - noteName: 7
+    noteOctave: 1
+    time: 48.120117
+    noteLength: 0.102539
+  - noteName: 11
+    noteOctave: 1
+    time: 48.237305
+    noteLength: 0.141601
+  - noteName: 7
+    noteOctave: 1
+    time: 48.39844
+    noteLength: 0.190429
+  - noteName: 6
+    noteOctave: 3
+    time: 48.83789
+    noteLength: 0.24414
+  - noteName: 7
+    noteOctave: 3
+    time: 49.08691
+    noteLength: 0.107422
+  - noteName: 11
+    noteOctave: 3
+    time: 49.30664
+    noteLength: 0.161132
+  - noteName: 4
+    noteOctave: 1
+    time: 49.492188
+    noteLength: 0.112304
+  - noteName: 4
+    noteOctave: 2
+    time: 49.61914
+    noteLength: 0.048828
+  - noteName: 4
+    noteOctave: 1
+    time: 49.692383
+    noteLength: 0.161133
+  - noteName: 2
+    noteOctave: 2
+    time: 49.868164
+    noteLength: 0.336914
+  - noteName: 4
+    noteOctave: 4
+    time: 50.24414
+    noteLength: 0.292968
+  - noteName: 6
+    noteOctave: 4
+    time: 50.541992
+    noteLength: 0.292969
+  - noteName: 9
+    noteOctave: 1
+    time: 51.04004
+    noteLength: 0.19043
+  - noteName: 9
+    noteOctave: 1
+    time: 51.25
+    noteLength: 0.424805
+  - noteName: 9
+    noteOctave: 4
+    time: 51.684566
+    noteLength: 0.180664
+  - noteName: 9
+    noteOctave: 3
+    time: 51.870117
+    noteLength: 0.048828
+  - noteName: 9
+    noteOctave: 4
+    time: 51.92383
+    noteLength: 0.087891
+  - noteName: 6
+    noteOctave: 4
+    time: 52.0166
+    noteLength: 0.361328
+  - noteName: 1
+    noteOctave: 3
+    time: 52.382812
+    noteLength: 0.151367
+  - noteName: 1
+    noteOctave: 2
+    time: 52.54883
+    noteLength: 0.571289
+  - noteName: 1
+    noteOctave: 2
+    time: 53.17871
+    noteLength: 0.424805
+  - noteName: 2
+    noteOctave: 1
+    time: 53.623047
+    noteLength: 0.380859
+  - noteName: 2
+    noteOctave: 2
+    time: 54.018555
+    noteLength: 0.141601
+  - noteName: 9
+    noteOctave: 2
+    time: 54.179688
+    noteLength: 0.371093
+  - noteName: 11
+    noteOctave: 1
+    time: 54.570312
+    noteLength: 0.341796
+  - noteName: 9
+    noteOctave: 3
+    time: 54.916992
+    noteLength: 0.092774
+  - noteName: 10
+    noteOctave: 1
+    time: 55.029297
+    noteLength: 0.087891
+  - noteName: 11
+    noteOctave: 3
+    time: 55.12207
+    noteLength: 0.180664
+  - noteName: 9
+    noteOctave: 1
+    time: 55.375977
+    noteLength: 0.649414
+  - noteName: 9
+    noteOctave: 1
+    time: 56.04492
+    noteLength: 0.356445
+  - noteName: 4
+    noteOctave: 4
+    time: 56.401367
+    noteLength: 0.102539
+  - noteName: 7
+    noteOctave: 4
+    time: 56.52344
+    noteLength: 0.263671
+  - noteName: 10
+    noteOctave: 1
+    time: 56.816406
+    noteLength: 0.112305
+  - noteName: 2
+    noteOctave: 2
+    time: 56.94336
+    noteLength: 0.512696
+  - noteName: 0
+    noteOctave: 3
+    time: 57.470703
+    noteLength: 0.38086
+  - noteName: 6
+    noteOctave: 2
+    time: 57.856445
+    noteLength: 0.390625
+  - noteName: 7
+    noteOctave: 2
+    time: 58.2666
+    noteLength: 0.170898
+  - noteName: 7
+    noteOctave: 1
+    time: 58.46191
+    noteLength: 0.454102
+  - noteName: 11
+    noteOctave: 1
+    time: 58.935547
+    noteLength: 0.488281
+  - noteName: 2
+    noteOctave: 1
+    time: 59.44336
+    noteLength: 0.205079
+  - noteName: 4
+    noteOctave: 1
+    time: 59.677734
+    noteLength: 0.06836
+  - noteName: 7
+    noteOctave: 1
+    time: 59.770508
+    noteLength: 0.063476
+  - noteName: 7
+    noteOctave: 1
+    time: 59.843754
+    noteLength: 0.390625
+  - noteName: 6
+    noteOctave: 3
+    time: 60.444336
+    noteLength: 0.249023
+  - noteName: 7
+    noteOctave: 3
+    time: 60.69824
+    noteLength: 0.097656
+  - noteName: 7
+    noteOctave: 2
+    time: 60.805664
+    noteLength: 0.097656
+  - noteName: 11
+    noteOctave: 3
+    time: 60.908203
+    noteLength: 0.161133
+  - noteName: 4
+    noteOctave: 1
+    time: 61.093754
+    noteLength: 0.112305
+  - noteName: 3
+    noteOctave: 2
+    time: 61.220703
+    noteLength: 0.053711
+  - noteName: 4
+    noteOctave: 1
+    time: 61.29883
+    noteLength: 0.146485
+  - noteName: 2
+    noteOctave: 2
+    time: 61.45996
+    noteLength: 0.371094
+  - noteName: 4
+    noteOctave: 4
+    time: 61.85547
+    noteLength: 0.283203
+  - noteName: 6
+    noteOctave: 4
+    time: 62.13867
+    noteLength: 0.385742
+  - noteName: 9
+    noteOctave: 1
+    time: 62.646484
+    noteLength: 0.185547
+  - noteName: 9
+    noteOctave: 1
+    time: 62.851562
+    noteLength: 0.424804
+  - noteName: 9
+    noteOctave: 4
+    time: 63.281246
+    noteLength: 0.15625
+  - noteName: 9
+    noteOctave: 4
+    time: 63.4375
+    noteLength: 0.053711
+  - noteName: 9
+    noteOctave: 4
+    time: 63.496098
+    noteLength: 0.126953
+  - noteName: 6
+    noteOctave: 4
+    time: 63.62793
+    noteLength: 0.415039
+  - noteName: 1
+    noteOctave: 3
+    time: 64.04785
+    noteLength: 0.107421
+  - noteName: 1
+    noteOctave: 2
+    time: 64.16992
+    noteLength: 0.566406
+  - noteName: 4
+    noteOctave: 1
+    time: 65.19043
+    noteLength: 0.185547
+  - noteName: 3
+    noteOctave: 1
+    time: 65.39551
+    noteLength: 0.224609
+  - noteName: 2
+    noteOctave: 2
+    time: 65.634766
+    noteLength: 0.136718
+  - noteName: 6
+    noteOctave: 2
+    time: 65.791016
+    noteLength: 0.366211
+  - noteName: 11
+    noteOctave: 1
+    time: 66.171875
+    noteLength: 0.34668
+  - noteName: 9
+    noteOctave: 3
+    time: 66.52344
+    noteLength: 0.08789
+  - noteName: 11
+    noteOctave: 3
+    time: 66.63086
+    noteLength: 0.278321
+  - noteName: 9
+    noteOctave: 1
+    time: 66.99219
+    noteLength: 0.639648
+  - noteName: 9
+    noteOctave: 1
+    time: 67.65137
+    noteLength: 0.185547
+  - noteName: 9
+    noteOctave: 1
+    time: 67.856445
+    noteLength: 0.151368
+  - noteName: 4
+    noteOctave: 4
+    time: 68.00781
+    noteLength: 0.102539
+  - noteName: 7
+    noteOctave: 4
+    time: 68.12988
+    noteLength: 0.297851
+  - noteName: 2
+    noteOctave: 2
+    time: 68.4668
+    noteLength: 0.595703
+  - noteName: 11
+    noteOctave: 1
+    time: 69.07715
+    noteLength: 0.263672
+  - noteName: 6
+    noteOctave: 3
+    time: 69.3457
+    noteLength: 0.136719
+  - noteName: 6
+    noteOctave: 2
+    time: 69.487305
+    noteLength: 0.375976
+  - noteName: 7
+    noteOctave: 2
+    time: 69.88281
+    noteLength: 0.161132
+  - noteName: 7
+    noteOctave: 1
+    time: 70.06348
+    noteLength: 0.478515
+  - noteName: 7
+    noteOctave: 1
+    time: 70.66406
+    noteLength: 0.615234
+  - noteName: 6
+    noteOctave: 1
+    time: 71.30371
+    noteLength: 0.307617
+  - noteName: 7
+    noteOctave: 1
+    time: 71.63574
+    noteLength: 0.34668
+  - noteName: 6
+    noteOctave: 3
+    time: 72.05078
+    noteLength: 0.249024
+  - noteName: 7
+    noteOctave: 3
+    time: 72.30469
+    noteLength: 0.102539
+  - noteName: 11
+    noteOctave: 3
+    time: 72.524414
+    noteLength: 0.136719
+  - noteName: 9
+    noteOctave: 4
+    time: 72.6709
+    noteLength: 0.273438
+  - noteName: 9
+    noteOctave: 4
+    time: 72.94922
+    noteLength: 0.053711
+  - noteName: 2
+    noteOctave: 3
+    time: 73.00781
+    noteLength: 0.234375
+  - noteName: 9
+    noteOctave: 4
+    time: 73.242195
+    noteLength: 0.043945
+  - noteName: 2
+    noteOctave: 3
+    time: 73.2959
+    noteLength: 0.063477
+  - noteName: 9
+    noteOctave: 1
+    time: 73.37891
+    noteLength: 0.512696
+  - noteName: 0
+    noteOctave: 5
+    time: 73.8916
+    noteLength: 0.131836
+  - noteName: 9
+    noteOctave: 4
+    time: 74.02344
+    noteLength: 0.131835
+  - noteName: 0
+    noteOctave: 3
+    time: 74.17969
+    noteLength: 0.083007
+  - noteName: 11
+    noteOctave: 1
+    time: 74.27734
+    noteLength: 1.118164
+  - noteName: 7
+    noteOctave: 4
+    time: 75.40039
+    noteLength: 0.073242
+  - noteName: 0
+    noteOctave: 3
+    time: 75.4834
+    noteLength: 0.25879
+  - noteName: 2
+    noteOctave: 2
+    time: 75.74707
+    noteLength: 0.498047
+  - noteName: 1
+    noteOctave: 2
+    time: 76.259766
+    noteLength: 0.327148
+  - noteName: 7
+    noteOctave: 4
+    time: 76.60156
+    noteLength: 0.3125
+  - noteName: 9
+    noteOctave: 4
+    time: 76.92871
+    noteLength: 0.258789
+  - noteName: 9
+    noteOctave: 1
+    time: 77.20703
+    noteLength: 0.107422
+  - noteName: 11
+    noteOctave: 1
+    time: 77.3291
+    noteLength: 0.102539
+  - noteName: 11
+    noteOctave: 1
+    time: 77.44629
+    noteLength: 0.776367
+  - noteName: 11
+    noteOctave: 1
+    time: 78.242195
+    noteLength: 0.346679
+  - noteName: 4
+    noteOctave: 4
+    time: 78.701164
+    noteLength: 0.195312
+  - noteName: 6
+    noteOctave: 4
+    time: 78.90625
+    noteLength: 0.146484
+  - noteName: 4
+    noteOctave: 2
+    time: 79.05762
+    noteLength: 1.010742
+  - noteName: 7
+    noteOctave: 2
+    time: 80.229485
+    noteLength: 0.434571
+  - noteName: 6
+    noteOctave: 2
+    time: 80.67382
+    noteLength: 0.234375
+  - noteName: 7
+    noteOctave: 2
+    time: 81.430664
+    noteLength: 0.541992
+  - noteName: 2
+    noteOctave: 4
+    time: 81.97754
+    noteLength: 0.12207
+  - noteName: 6
+    noteOctave: 2
+    time: 82.299805
+    noteLength: 0.488281
